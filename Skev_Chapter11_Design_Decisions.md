@@ -161,4 +161,4 @@ Skev v1.0 specification: COMPLETE.
 
 *Version 0.1 — All decisions locked — Chapter 11 written*
 *The Skev Language Specification is now complete.*
-*Copyright © 2026 AJ. All Rights Reserved. skev.dev | skev.org*
+*Copyright © 2026 AJ. All Rights Reserved. https://skev.dev | https://skev.org*
