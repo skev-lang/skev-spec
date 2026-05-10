@@ -128,4 +128,4 @@ Copyright © 2026 AJ. All Rights Reserved.
 The Skev specification is open to read. The compiler and standard library
 are licensed under Apache 2.0.
 
-skev.dev | skev.org
+https://skev.dev | https://skev.org
