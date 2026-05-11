@@ -9,7 +9,7 @@ skev.dev | skev.org
 # Skev Language Specification
 ## Chapter 4: Memory Model & Object Layout — Design Decisions
 **Version:** 0.1
-**Authors:** AJ (Copyright © 2026) & Claude (Anthropic)
+**Authors:** AJ (Copyright © 2026)
 **Status:** All decisions locked — Chapter 4 written
 **Process:** Steps 1–7 completed per Design Practices v1.5
 **Use Cases Tested:** All 7 — Games, XR/VR/AR, Simulations, Robotics, Animation/VFX, Interactive Apps, Real-time Networking
