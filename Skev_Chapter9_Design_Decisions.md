@@ -9,7 +9,7 @@ skev.dev | skev.org
 # Skev Language Specification
 ## Chapter 9: Build & Distribution — Design Decisions
 **Version:** 0.1
-**Authors:** AJ (Copyright © 2026) & Claude (Anthropic)
+**Authors:** AJ (Copyright © 2026)
 **Status:** All decisions locked — Chapter 9 ready to write
 **Process:** Steps 1–8 completed per Design Practices v2.4
 **Rule H Applied:** skev.pkg, novapkg — all names checked ✅
