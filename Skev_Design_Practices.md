@@ -9,7 +9,7 @@ skev.dev | skev.org
 # Skev Language Design Practices
 ## Official Design Partnership Guidelines
 **Version:** 2.6
-**Authors:** AJ (Copyright © 2026) & Claude (Anthropic)
+**Authors:** AJ (Copyright © 2026)
 **Status:** Locked
 **Updated:** Rule F v1.9 — comparison on every example. Rule H added — Trademark & Naming Conflict Prevention. skev.net renamed to skev.network as first Rule H application. Chapter Process updated to 8 steps including Rule H.
 
