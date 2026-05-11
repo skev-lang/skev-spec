@@ -9,7 +9,7 @@ skev.dev | skev.org
 # Skev Language Specification
 ## Chapter 2: Syntax & Structure
 **Version:** 0.2 — DRAFT  
-**Authors:** AJ (Copyright © 2026) & Claude (Anthropic)  
+**Authors:** AJ (Copyright © 2026)
 **Status:** In Progress  
 **Updated:** Block system, closing rules, event qualifiers, match arms
 
