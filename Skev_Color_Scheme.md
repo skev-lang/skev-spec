@@ -9,7 +9,7 @@ skev.dev | skev.org
 # Skev Syntax Highlighting & Color Scheme
 ## Official Visual Design Reference
 **Version:** 1.0
-**Authors:** AJ (Copyright © 2026) & Claude (Anthropic)
+**Authors:** AJ (Copyright © 2026)
 **Status:** Locked
 **Applies To:** Skev Studio, VS Code extension, documentation site, all tooling
 
