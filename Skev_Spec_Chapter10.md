@@ -9,7 +9,7 @@ skev.dev | skev.org
 # Skev Language Specification
 ## Chapter 10: Security & Isolation
 **Version:** 0.1 — DRAFT
-**Authors:** AJ (Copyright © 2026) & Claude (Anthropic)
+**Authors:** AJ (Copyright © 2026)
 **Status:** In Progress
 **Depends On:** Chapter 8 (WASM/interop), Chapter 9 (packages), Chapter 5 (realtime)
 **Use Cases Tested:** All 7 — Games, XR/VR/AR, Simulations, Robotics, Animation/VFX, Interactive Apps, Real-time Networking
