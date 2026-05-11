@@ -9,7 +9,7 @@ skev.dev | skev.org
 # Skev Language Specification
 ## Chapter 6: Error Handling
 **Version:** 0.1 — DRAFT
-**Authors:** AJ (Copyright © 2026) & Claude (Anthropic)
+**Authors:** AJ (Copyright © 2026)
 **Status:** In Progress
 **Depends On:** Chapter 3 (types), Chapter 4 (ARC), Chapter 5 (async/tasks)
 **Use Cases Tested:** All 7 — Games, XR/VR/AR, Simulations, Robotics, Animation/VFX, Interactive Apps, Real-time Networking
@@ -873,7 +873,7 @@ Skev is the only language in this comparison where the distinction between "expe
 
 ### ⚙️ Technical Version
 
-Panics are implemented via LLVM's `unreachable` intrinsic in release builds with a preceding call to the panic handler function. In debug builds, panic sites compile to a call to the Skev runtime's `nova_panic()` function which prints the diagnostic and calls `SIGABRT`. Array bounds checks compile to a compare-and-branch before every array access with a constant index — LLVM eliminates these when the index is provably in bounds at compile time. `assert` compiles to a conditional branch to the panic handler — the branch is marked cold and is eliminated entirely in release builds compiled with `--release-no-asserts` (for maximum performance in shipping builds). The panic hook is a single function pointer stored in the engine runtime's global state.
+Panics are implemented via LLVM's `unreachable` intrinsic in release builds with a preceding call to the panic handler function. In debug builds, panic sites compile to a call to the Skev runtime's `skev_panic()` function which prints the diagnostic and calls `SIGABRT`. Array bounds checks compile to a compare-and-branch before every array access with a constant index — LLVM eliminates these when the index is provably in bounds at compile time. `assert` compiles to a conditional branch to the panic handler — the branch is marked cold and is eliminated entirely in release builds compiled with `--release-no-asserts` (for maximum performance in shipping builds). The panic hook is a single function pointer stored in the engine runtime's global state.
 
 ---
 
