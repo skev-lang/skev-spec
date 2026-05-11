@@ -3,13 +3,13 @@ Copyright © 2026 AJ. All Rights Reserved.
 Skev Programming Language Specification.
 Unauthorized reproduction, distribution, or use of this material
 without explicit written permission from the author is prohibited.
-skev.dev | skev.org
+https://skev.dev | https://skev.org
 -->
 
 # Skev Language Specification
 ## Chapter 8: Interoperability
 **Version:** 0.1 — DRAFT
-**Authors:** AJ (Copyright © 2026) & Claude (Anthropic)
+**Authors:** AJ (Copyright © 2026)
 **Status:** In Progress
 **Depends On:** Chapter 4 (memory/unsafe), Chapter 5 (async/tasks), Chapter 6 (errors)
 **Use Cases Tested:** All 7
@@ -336,9 +336,9 @@ int actionId = skev_ai_decide(agent.id, pos.x, pos.y, pos.z);
 **Calling from Python:**
 ```python
 import ctypes
-nova = ctypes.CDLL("./libskev_ai.so")
-nova.skev_ai_decide.restype = ctypes.c_int
-action_id = nova.skev_ai_decide(agent_id, x, y, z)
+skev = ctypes.CDLL("./libskev_ai.so")
+skev.skev_ai_decide.restype = ctypes.c_int
+action_id = skev.skev_ai_decide(agent_id, x, y, z)
 // 3 lines total — Python side
 ```
 
@@ -1363,10 +1363,10 @@ export "C" function_name(args: C_types) -> C_type
     # Automatically accessible from any language
 << function_name
 
-C# Unity:   [DllImport("nova.dll")] static extern Type nova_fn(args);
-Python:     lib = ctypes.CDLL("libnova.so"); lib.nova_fn(args)
-Rust FFI:   extern "C" { fn nova_fn(args) -> Type; }
-GDScript:   lib.nova_fn(args)  # via GDExtension
+C# Unity:   [DllImport("skev.dll")] static extern Type skev_fn(args);
+Python:     lib = ctypes.CDLL("libskev.so"); lib.skev_fn(args)
+Rust FFI:   extern "C" { fn skev_fn(args) -> Type; }
+GDScript:   lib.skev_fn(args)  # via GDExtension
 
 C-COMPATIBLE STRUCTS:
 cdata StructName >>
