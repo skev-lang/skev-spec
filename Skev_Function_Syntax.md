@@ -9,7 +9,7 @@ skev.dev | skev.org
 # Skev Language Specification
 ## Function Syntax — Formal Definition
 **Version:** 0.1
-**Authors:** AJ (Copyright © 2026) & Claude (Anthropic)
+**Authors:** AJ (Copyright © 2026)
 **Status:** Gap discovered in new chat — all decisions locked here
 **Context:** Function syntax was used implicitly across Chapters 6, 7, 8
              but never formally defined. This document locks it formally.
