@@ -9,7 +9,7 @@ skev.dev | skev.org
 # Skev Language Specification
 ## Chapter 8: Interoperability — Design Decisions
 **Version:** 0.1
-**Authors:** AJ (Copyright © 2026) & Claude (Anthropic)
+**Authors:** AJ (Copyright © 2026)
 **Status:** All decisions locked — Chapter 8 ready to write
 **Process:** Steps 1–8 completed per Design Practices v2.4
 **Rule H Applied:** skev.ffi (standard abbreviation — no conflicts) ✅
