@@ -3,7 +3,7 @@ Copyright © 2026 AJ. All Rights Reserved.
 Skev Programming Language Specification.
 Unauthorized reproduction, distribution, or use of this material
 without explicit written permission from the author is prohibited.
-skev.dev | skev.org
+https://skev.dev | https://skev.org
 -->
 
 # Skev Language Design Practices
@@ -1131,10 +1131,10 @@ Before locking any name — run all six checks:
 Full descriptive words — never abbreviations:
 
 ✅ skev.networkworkwork   not   skev.networkwork    (evokes .NET)
-✅ skev.file      not   nova.fs     (unclear)
-✅ skev.math      not   nova.m      (unclear)
-✅ skev.time      not   nova.t      (unclear)
-✅ skev.serial    not   nova.bin    (unclear)
+✅ skev.file      not   skev.fs     (unclear)
+✅ skev.math      not   skev.m      (unclear)
+✅ skev.time      not   skev.t      (unclear)
+✅ skev.serial    not   skev.bin    (unclear)
 
 Reasoning:
 Full words match "easy to read like Python."
