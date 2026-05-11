@@ -3,14 +3,14 @@ Copyright © 2026 AJ. All Rights Reserved.
 Skev Programming Language Specification.
 Unauthorized reproduction, distribution, or use of this material
 without explicit written permission from the author is prohibited.
-skev.dev | skev.org
+https://skev.dev | https://skev.org
 -->
 
 # Skev Language Design — Style & Format Guide
 ## For Continuation Chats
 **Version:** 1.0
 **Purpose:** Ensures every new chat matches the exact format established in the original session.
-**Instructions:** Paste this document into every new chat alongside NOVA_Design_Practices.md.
+**Instructions:** Paste this document into every new chat alongside skev_Design_Practices.md.
 
 ---
 
@@ -487,16 +487,16 @@ Core working principles:
 → Follow ALL rules in the Design Practices document exactly
 → Follow ALL formatting conventions in the Style Guide exactly
 
-[PASTE NOVA_Design_Practices.md HERE]
+[PASTE skev_Design_Practices.md HERE]
 
-[PASTE NOVA_Style_Guide.md HERE]
+[PASTE skev_Style_Guide.md HERE]
 
 [PASTE most recent Design Decisions file HERE]
 
 Current status: Chapters 1-8 complete. Chapter 9 design complete.
 Function syntax formally locked in Skev_Function_Syntax.md.
 
-[PASTE NOVA_Function_Syntax.md HERE — if writing Chapter 3.5]
+[PASTE skev_Function_Syntax.md HERE — if writing Chapter 3.5]
 
 Task: [Write Chapter N / Design Chapter N / etc.]
 All decisions for this chapter are locked.
@@ -506,4 +506,4 @@ Begin immediately — no preamble, no re-introduction.
 ---
 
 *Version 1.0 — Created to ensure consistent formatting across continuation chats*
-*This document must be pasted into every new chat alongside NOVA_Design_Practices.md*
+*This document must be pasted into every new chat alongside skev_Design_Practices.md*
