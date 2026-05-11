@@ -3,13 +3,13 @@ Copyright © 2026 AJ. All Rights Reserved.
 Skev Programming Language Specification.
 Unauthorized reproduction, distribution, or use of this material
 without explicit written permission from the author is prohibited.
-skev.dev | skev.org
+https://skev.dev | https://skev.org
 -->
 
 # Skev Language Specification
 ## Chapter 4: Memory Model & Object Layout
 **Version:** 0.1 — DRAFT
-**Authors:** AJ (Copyright © 2026) & Claude (Anthropic)
+**Authors:** AJ (Copyright © 2026)
 **Status:** In Progress
 **Depends On:** Chapter 3 v0.1 — All type decisions locked
 **Use Cases Tested:** Games, XR/VR/AR, Simulations, Robotics, Animation/VFX, Interactive Apps, Real-time Networking
