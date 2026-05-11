@@ -10,7 +10,7 @@ skev.dev | skev.org
 ## Chapter 3 Addendum: SOA (Structure of Arrays) — Design Decisions
 
 **Version:** 1.0
-**Authors:** AJ (Copyright © 2026) & Claude (Anthropic)
+**Authors:** AJ (Copyright © 2026)
 **Status:** All decisions locked
 **Process:** Steps 1–7 completed per Design Practices
 **Adds to:** Skev_Spec_Chapter3.md as Section 3.11
@@ -301,4 +301,4 @@ loop particle in particles >>
 
 ---
 
-*Copyright © 2026 AJ. All Rights Reserved. skev.dev | skev.org*
+*Copyright © 2026 AJ. All Rights Reserved. https://skev.dev | https://skev.org*
