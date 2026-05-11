@@ -9,7 +9,7 @@ skev.dev | skev.org
 # Skev Language Specification
 ## Chapter 11: Tooling
 **Version:** 0.1 — DRAFT
-**Authors:** AJ (Copyright © 2026) & Claude (Anthropic)
+**Authors:** AJ (Copyright © 2026)
 **Status:** In Progress
 **Depends On:** Chapter 9 (build/CLI), Chapter 10 (sandbox/plugins), Chapter 6 (errors)
 **Use Cases Tested:** All 7 — Games, XR/VR/AR, Simulations, Robotics, Animation/VFX, Interactive Apps, Real-time Networking
@@ -1194,4 +1194,4 @@ SKEV STUDIO:
 ---
 
 *End of Chapter 11 v0.1 — The Skev specification is now complete (Chapters 1–11 + 3.5)*
-*Copyright © 2026 AJ. All Rights Reserved. skev.dev | skev.org*
+*Copyright © 2026 AJ. All Rights Reserved. https://skev.dev | https://skev.org*
