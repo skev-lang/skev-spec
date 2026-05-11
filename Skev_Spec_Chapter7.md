@@ -3,13 +3,13 @@ Copyright © 2026 AJ. All Rights Reserved.
 Skev Programming Language Specification.
 Unauthorized reproduction, distribution, or use of this material
 without explicit written permission from the author is prohibited.
-skev.dev | skev.org
+https://skev.dev | https://skev.org
 -->
 
 # Skev Language Specification
 ## Chapter 7: Standard Library
 **Version:** 0.1 — DRAFT
-**Authors:** AJ (Copyright © 2026) & Claude (Anthropic)
+**Authors:** AJ (Copyright © 2026)
 **Status:** In Progress
 **Depends On:** Chapter 3 (types), Chapter 4 (ARC), Chapter 5 (async), Chapter 6 (errors)
 **Use Cases Tested:** All 7 — Games, XR/VR/AR, Simulations, Robotics, Animation/VFX, Interactive Apps, Real-time Networking
@@ -1116,7 +1116,7 @@ await file.create_dir(path)          -> result[nothing]
 file.path("saves", "slot_1", "game.skev_save")  -> string
 file.parent("saves/slot_1/game.skev_save")       -> string  # "saves/slot_1"
 file.filename("saves/slot_1/game.skev_save")     -> string  # "game.skev_save"
-file.extension("game.skev_save")                 -> string  # "nova_save"
+file.extension("game.skev_save")                 -> string  # "skev_save"
 file.user_data_dir()                             -> string  # OS-specific user data path
 file.app_dir()                                   -> string  # where the game executable is
 ```
