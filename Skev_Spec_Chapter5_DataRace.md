@@ -3,7 +3,7 @@ Copyright © 2026 AJ. All Rights Reserved.
 Skev Programming Language Specification.
 Unauthorized reproduction, distribution, or use of this material
 without explicit written permission from the author is prohibited.
-skev.dev | skev.org
+https://skev.dev | https://skev.org
 -->
 
 # Skev Language Specification
@@ -457,4 +457,4 @@ For patterns beyond these rules:
 
 ---
 
-*Copyright © 2026 AJ. All Rights Reserved. skev.dev | skev.org*
+*Copyright © 2026 AJ. All Rights Reserved. https://skev.dev | https://skev.org*
