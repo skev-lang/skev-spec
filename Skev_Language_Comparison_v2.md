@@ -9,7 +9,7 @@ skev.dev | skev.org
 # Skev Language Comparison v2
 ## Complete Honest Assessment — All Domains, All Competitors
 **Version:** 2.0
-**Authors:** AJ (Copyright © 2026) & Claude (Anthropic)
+**Authors:** AJ (Copyright © 2026)
 **Supersedes:** Skev_Language_Comparison.md (v1)
 **Languages assessed:** 12
 **Domains assessed:** 7
@@ -2089,5 +2089,5 @@ The design is solid. The work is ahead of us.
 
 ---
 
-*Copyright © 2026 AJ. All Rights Reserved. skev.dev | skev.org*
+*Copyright © 2026 AJ. All Rights Reserved. https://skev.dev | https://skev.org*
 *This document may be reproduced with attribution to AJ and skev.dev.*
