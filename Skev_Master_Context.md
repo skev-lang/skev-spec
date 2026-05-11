@@ -3,7 +3,7 @@ Copyright © 2026 AJ. All Rights Reserved.
 Skev Programming Language Specification.
 Unauthorized reproduction, distribution, or use of this material
 without explicit written permission from the author is prohibited.
-skev.dev | skev.org
+https://skev.dev | https://skev.org
 -->
 
 # Skev Master Context — Continuation Guide
@@ -59,7 +59,7 @@ Core identity: "Fast like C++ and C#. Easy to read like Python."
 
 **Rule H — Trademark & Naming:**
 - Check: Microsoft (.NET, Azure, C#), Apple (Swift, Metal), game engines (Unity, Unreal)
-- Full words only: `skev.network` not `nova.net`, `skev.file` not `nova.fs`
+- Full words only: `skev.network` not `skev.net`, `skev.file` not `skev.fs`
 
 **Rule I — Bidirectional Interop:**
 - Every interop feature considers: Skev→other, other→Skev, Skev as library
