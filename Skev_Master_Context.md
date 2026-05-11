@@ -8,7 +8,7 @@ skev.dev | skev.org
 
 # Skev Master Context — Continuation Guide
 ## Single-file context for new chats
-**Replaces:** NOVA_Design_Practices.md + NOVA_Style_Guide.md
+**Replaces:** skev_Design_Practices.md + skev_Style_Guide.md
 **Use when:** Files are too large to paste individually
 
 ---
@@ -261,9 +261,9 @@ Chapter 9:          Design complete — ready to write
 Chapter 3.5:        Function syntax locked — ready to design generics
 Chapters 10, 11:    Not started
 
-Most recent spec file:    NOVA_Spec_Chapter8.md
-Most recent decisions:    NOVA_Chapter9_Design_Decisions.md
-Function syntax:          NOVA_Function_Syntax.md (gap filled)
+Most recent spec file:    skev_Spec_Chapter8.md
+Most recent decisions:    skev_Chapter9_Design_Decisions.md
+Function syntax:          skev_Function_Syntax.md (gap filled)
 Design practices version: v2.5
 ```
 
