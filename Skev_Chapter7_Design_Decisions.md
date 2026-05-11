@@ -3,7 +3,7 @@ Copyright © 2026 AJ. All Rights Reserved.
 Skev Programming Language Specification.
 Unauthorized reproduction, distribution, or use of this material
 without explicit written permission from the author is prohibited.
-skev.dev | skev.org
+https://skev.dev | https://skev.org
 -->
 
 # Skev Language Specification
@@ -12,7 +12,7 @@ skev.dev | skev.org
 **Authors:** AJ (Copyright © 2026)
 **Status:** All decisions locked — Chapter 7 written
 **Process:** Steps 1–8 completed per Design Practices v2.1
-**Rule H Applied:** skev.network (not nova.net) ✅
+**Rule H Applied:** skev.network (not skev.net) ✅
 
 ---
 
@@ -100,7 +100,7 @@ Fills the gap identified in the architecture audit.
 
 ## Decision 8 — Networking (`skev.network`)
 
-**Rule H applied:** `nova.net` renamed to `skev.network`
+**Rule H applied:** `skev.net` renamed to `skev.network`
 - Reason: `net` evokes Microsoft's .NET platform
 - `skev.network` is unambiguous
 
