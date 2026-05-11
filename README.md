@@ -1,6 +1,6 @@
 <!--
 Copyright © 2026 AJ. All Rights Reserved.
-skev.dev | skev.org
+https://skev.dev | https://skev.org
 -->
 
 # Skev Language Specification
