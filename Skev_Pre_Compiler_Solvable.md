@@ -9,7 +9,7 @@ skev.dev | skev.org
 # Skev — Weaknesses Solvable Before the Compiler
 ## Pre-Compiler Action Plan: What Can Be Fixed Now
 **Version:** 1.0
-**Authors:** AJ (Copyright © 2026) & Claude (Anthropic)
+**Authors:** AJ (Copyright © 2026)
 **Source:** Skev_Weakness_Analysis.md + Skev_Language_Comparison_v2.md
 **Purpose:** Identify every weakness addressable before Milestone 3 (compiler)
 
@@ -630,5 +630,5 @@ These items run in parallel — not instead of the compiler.
 
 ---
 
-*Copyright © 2026 AJ. All Rights Reserved. skev.dev | skev.org*
+*Copyright © 2026 AJ. All Rights Reserved. https://skev.dev | https://skev.org*
 *Derived from: Skev_Weakness_Analysis.md + Skev_Language_Comparison_v2.md*
