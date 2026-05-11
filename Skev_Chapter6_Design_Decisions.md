@@ -9,7 +9,7 @@ skev.dev | skev.org
 # Skev Language Specification
 ## Chapter 6: Error Handling — Design Decisions
 **Version:** 0.1
-**Authors:** AJ (Copyright © 2026) & Claude (Anthropic)
+**Authors:** AJ (Copyright © 2026)
 **Status:** All decisions locked — Chapter 6 written
 **Process:** Steps 1–7 completed per Design Practices v1.7
 **Use Cases Tested:** All 7
