@@ -3,7 +3,7 @@ Copyright © 2026 AJ. All Rights Reserved.
 Skev Programming Language Specification.
 Unauthorized reproduction, distribution, or use of this material
 without explicit written permission from the author is prohibited.
-skev.dev | skev.org
+https://skev.dev | https://skev.org
 -->
 
 # Skev Language Specification
@@ -12,7 +12,7 @@ skev.dev | skev.org
 **Authors:** AJ (Copyright © 2026)
 **Status:** All decisions locked — Chapter 9 ready to write
 **Process:** Steps 1–8 completed per Design Practices v2.4
-**Rule H Applied:** skev.pkg, novapkg — all names checked ✅
+**Rule H Applied:** skev.pkg, skevpkg — all names checked ✅
 **Rule I Applied:** Package consumption both directions considered ✅
 
 ---
@@ -89,7 +89,7 @@ package DragonAI >>
 **Rule H check:**
 ```
 skev.pkg    → no trademark conflict ✅
-novapkg     → no trademark conflict ✅
+skevpkg     → no trademark conflict ✅
 skev.toml   → TOML is associated with Rust/Cargo — avoided ✅
 ```
 
@@ -168,7 +168,7 @@ skev build --release    # release build (optimised)
 skev build --target wasm32  # cross-compile
 skev run                # build and run
 skev test               # build and run tests
-nova package            # build distributable package
+skev package            # build distributable package
 skev publish            # publish to Skev Package Hub
 skev audit              # check for security vulnerabilities
 skev audit --abi        # check package ABI compatibility
@@ -547,7 +547,7 @@ All three directions covered ✅
 | Migration block | `migration TypeName >> from_version_N >> ... << from_version_N << migration` |
 | Serialisable version | `#! serialisable(version: N)` |
 | Private registry | `registry :: "url"` in skev.pkg |
-| CLI commands | `skev build` `skev run` `skev test` `nova package` `skev publish` `skev audit` `skev migrate` `skev lock` `skev clean` |
+| CLI commands | `skev build` `skev run` `skev test` `skev package` `skev publish` `skev audit` `skev migrate` `skev lock` `skev clean` |
 
 ---
 
