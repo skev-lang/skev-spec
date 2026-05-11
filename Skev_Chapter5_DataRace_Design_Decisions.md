@@ -10,7 +10,7 @@ skev.dev | skev.org
 ## Chapter 5 Addendum: Data Race Detection — Design Decisions
 
 **Version:** 1.0
-**Authors:** AJ (Copyright © 2026) & Claude (Anthropic)
+**Authors:** AJ (Copyright © 2026)
 **Status:** All decisions locked
 **Process:** Steps 1–7 completed per Design Practices
 **Adds to:** Skev_Spec_Chapter5.md as Section 5.8
@@ -354,4 +354,4 @@ Verdict: Skev is significantly safer than C++/Odin/Zig.
 
 ---
 
-*Copyright © 2026 AJ. All Rights Reserved. skev.dev | skev.org*
+*Copyright © 2026 AJ. All Rights Reserved. https://skev.dev | https://skev.org*
