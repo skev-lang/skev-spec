@@ -3,13 +3,13 @@ Copyright © 2026 AJ. All Rights Reserved.
 Skev Programming Language Specification.
 Unauthorized reproduction, distribution, or use of this material
 without explicit written permission from the author is prohibited.
-skev.dev | skev.org
+https://skev.dev | https://skev.org
 -->
 
 # Skev Language — Weakness Analysis
 ## Complete Category-by-Category Gap Register
 **Version:** 1.0
-**Authors:** AJ (Copyright © 2026) & Claude (Anthropic)
+**Authors:** AJ (Copyright © 2026)
 **Source:** Skev_Language_Comparison_v2.md
 **Purpose:** Internal audit — every weakness documented, nothing softened
 **Date:** 2026
@@ -549,5 +549,5 @@ Closing that gap = Milestone 3 + ecosystem development
 
 ---
 
-*Copyright © 2026 AJ. All Rights Reserved. skev.dev | skev.org*
+*Copyright © 2026 AJ. All Rights Reserved. https://skev.dev | https://skev.org*
 *Source: Skev_Language_Comparison_v2.md — Full Honest Assessment*
