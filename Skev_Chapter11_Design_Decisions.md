@@ -9,7 +9,7 @@ skev.dev | skev.org
 # Skev Language Specification
 ## Chapter 11: Tooling — Design Decisions
 **Version:** 0.1
-**Authors:** AJ (Copyright © 2026) & Claude (Anthropic)
+**Authors:** AJ (Copyright © 2026)
 **Status:** All decisions locked — Chapter 11 written
 **Process:** Steps 1–7 completed per Design Practices v2.6
 **Rule H Applied:** test, mock, bench, skev.log, skev.vscode-skev — all checked ✅
