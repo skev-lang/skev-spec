@@ -1,3 +1,7 @@
+<!--
+Copyright © 2026 AJ. All Rights Reserved.
+https://skev.dev | https://skev.org
+-->
 # About Skev
 
 Skev is a compiled, statically typed programming language for game development and systems programming. Fast like C++. Readable like Python.
@@ -83,7 +87,7 @@ The near-term roadmap in order:
 1. **Standard Library** — 33 namespaces in pure Skev. No C underneath.
 1. **Phase G — Testing** — 417 transpiler tests validated against the real compiler. LSP, DWARF5 debugger, error messages.
 1. **v1.0** — A stable, cross-platform Skev compiler targeting Windows, macOS, and Linux.
-1. **First game** — A Road Fighter-inspired mobile game built entirely in Skev. The design documentation is complete.
+1. **First game** — A SKEV mobile game built entirely in Skev. The design documentation is complete.
 
 Longer-horizon items exist. They are not listed here because they do not have code yet.
 
